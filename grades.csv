@@ -1,7 +1,6 @@
-assignment,group,grade,weight
-Quiz 1,Formative,80,10
-Quiz 2,Formative,45,10
-Group Project,Formative,40,20
-Lab Exercises,Formative,70,20
-Mid-term Exam,Summative,65,20
-Final Exam,Summative,72,20
+assignment,group,score,weight
+Quiz,Formative,85,20
+Group Exercise,Formative,40,20
+Functions and Debugging Lab,Formative,45,20
+Midterm Project - Simple Calculator,Summative,70,20
+Final Project - Text-Based Game,Summative,60,20
